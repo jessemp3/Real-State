@@ -23,6 +23,16 @@ The main objective is to improve:
 - multiple screens connected with Compose Navigation
 - local assets (images/icons) for mock listings and interface elements
 
+## Screenshots
+
+### HomeScreen
+
+![HomeScreen](app/src/main/res/drawable/homescreen.png)
+
+### SplashScreen
+
+![SplashScreen](app/src/main/res/drawable/splashscreen.png)
+
 ## Project Structure
 
 ```text
