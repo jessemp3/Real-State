@@ -27,11 +27,11 @@ The main objective is to improve:
 
 ### HomeScreen
 
-![HomeScreen](app/src/main/res/drawable/homescreen.png)
+<img src="app/src/main/res/drawable/homescreen.png" alt="HomeScreen" width="200" />
 
 ### SplashScreen
 
-![SplashScreen](app/src/main/res/drawable/splashscreen.png)
+<img src="app/src/main/res/drawable/splashscreen.png" alt="SplashScreen" width="200" />
 
 ## Project Structure
 
